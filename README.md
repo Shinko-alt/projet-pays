@@ -12,5 +12,8 @@
     → README.md
     → style.css
     
-URL du projet Web Sur GitHub : https://github.com/Shinko-alt/projet-pays
-URL de publication du projet avec Pages : https://shinko-alt.github.io/projet-pays/
+
+# # Lien :
+    → URL du projet Web Sur GitHub : https://github.com/Shinko-alt/projet-pays
+
+    → URL de publication du projet avec Pages : https://shinko-alt.github.io/projet-pays/
