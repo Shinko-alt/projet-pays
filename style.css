@@ -14,7 +14,7 @@ ul{
     gap: 10vw; 
 }
 
-a{
+.boutons{
     display: flex;
     flex-direction: column;
     font-size: x-large;
@@ -29,7 +29,7 @@ a{
     padding: 2vw;
 }
 
-a:hover{
+.boutons:hover{
     background-color: rgb(80, 6, 6);
     text-decoration: none;
     color: aliceblue;
@@ -78,6 +78,8 @@ article:hover{
     background-color: rgb(24, 24, 24);
     padding: 3vh;
     border-radius: 20px;
+
+    margin-bottom: 5vh;
 }
 
 .hebergements img{
@@ -86,5 +88,9 @@ article:hover{
 }
 
 .hebergements h2{
+    color: white;
+}
+
+.hebergements a, p{
     color: white;
 }
