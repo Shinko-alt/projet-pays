@@ -82,6 +82,14 @@ article:hover{
     margin-bottom: 5vh;
 }
 
+.comment-y-aller{
+    background-color: rgb(24, 24, 24);
+    padding: 3vh;
+    border-radius: 20px;
+    color: white;
+    margin-bottom: 5vh;
+}
+
 .hebergements img{
     border-radius: 20px;
     display: inline-block;
